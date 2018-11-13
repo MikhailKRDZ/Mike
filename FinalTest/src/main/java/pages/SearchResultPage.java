@@ -10,7 +10,5 @@ public class SearchResultPage {
         this.driver = driver;
     }
 
-//    public String getFirstLink() {
-//        return driver.findElement(By.xpath("//*[@id='rso']//a[1]")).getText();
-//    }
+
 }
